@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; 
+  font-family: Outfit;
+}
+body{
+  min-height: 100vh;
+}
+a{
+text-decoration: none;
+color: inherit;
+}
+.app{
+  width: 80%;
+  margin: auto;
+}
+/*  CSS property is used to set the text color of an element to be the same as its parent element's text color. This means the element will "inherit" the color from its parent, allowing for more consistent and flexible styling. */
